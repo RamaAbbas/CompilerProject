@@ -1,0 +1,202 @@
+Document: {
+	header(DocumentHeader): {},
+	body(DocumentBody): {
+		ElementNode: {
+			name: html,
+			type: Normal,
+			children: [
+				ElementNode: {
+					name: body,
+					type: Normal,
+					children: [
+						ElementNode: {
+							name: div,
+							type: Normal,
+							children: [
+								CommentNode: {
+									comment: <!--     order 1-->,
+									type: Normal,
+								},
+								CommentNode: {
+									comment: <!--     <div id="tt"></div>-->,
+									type: Normal,
+								},
+								CommentNode: {
+									comment: <!-- <div>-->,
+									type: Normal,
+								},
+								CommentNode: {
+									comment: <!--     <ul id="tt">-->,
+									type: Normal,
+								},
+								CommentNode: {
+									comment: <!--            </ul>-->,
+									type: Normal,
+								},
+								CommentNode: {
+									comment: <!--</div>-->,
+									type: Normal,
+								},
+								CommentNode: {
+									comment: <!--order 2-->,
+									type: Normal,
+								},
+								CommentNode: {
+									comment: <!--     <div cp-for="x in [1,3,4];i=index">-->,
+									type: Normal,
+								},
+								CommentNode: {
+									comment: <!--        <div cp-for="x in [1,3,4];i=index">-->,
+									type: Normal,
+								},
+								CommentNode: {
+									comment: <!--        </div>-->,
+									type: Normal,
+								},
+								CommentNode: {
+									comment: <!--   </div>-->,
+									type: Normal,
+								},
+								CommentNode: {
+									comment: <!--order 3-->,
+									type: Normal,
+								},
+								CommentNode: {
+									comment: <!--     <ul>-->,
+									type: Normal,
+								},
+								CommentNode: {
+									comment: <!--     </ul>-->,
+									type: Normal,
+								},
+								CommentNode: {
+									comment: <!--  <li>welcome</li>-->,
+									type: Normal,
+								},
+								CommentNode: {
+									comment: <!--order 4-->,
+									type: Normal,
+								},
+								CommentNode: {
+									comment: <!--<div cp-app="cc"></div>-->,
+									type: Normal,
+								},
+								CommentNode: {
+									comment: <!--   order 5  -->,
+									type: Normal,
+								},
+								CommentNode: {
+									comment: <!--     <div cp-if="one" cp-if="elsement"></div>-->,
+									type: Normal,
+								},
+								CommentNode: {
+									comment: <!--    order 6 -->,
+									type: Normal,
+								},
+								CommentNode: {
+									comment: <!--     <div>-->,
+									type: Normal,
+								},
+								CommentNode: {
+									comment: <!--     <img alt="nn" >-->,
+									type: Normal,
+								},
+								CommentNode: {
+									comment: <!--     </div>-->,
+									type: Normal,
+								},
+								CommentNode: {
+									comment: <!--   order 7  -->,
+									type: Normal,
+								},
+								CommentNode: {
+									comment: <!--     <a > hello worlde</a>-->,
+									type: Normal,
+								},
+								CommentNode: {
+									comment: <!-- oreder 8    -->,
+									type: Normal,
+								},
+								CommentNode: {
+									comment: <!--     {{ date|date : "dd/mm/yyvvy h:m:s"}}-->,
+									type: Normal,
+								},
+								ElementNode: {
+									name: div,
+									type: Normal,
+									children: [
+										MustachNode: {
+											Exp(FilterStatement): {
+												Oprand(TernaryConditionalExpression): {
+													firstOprand(MoreThanComparisionExpression): {
+														leftOprand(ReferenceExpression): {
+															reference: m,
+														},
+														rightOprand(NumberLiteral): {
+															value: 0.0,
+														},
+													},
+													secondOprand(FilterStatement): {
+														Oprand(ReferenceExpression): {
+															reference: mm,
+														},
+														FilterMethod(ReferenceExpression): {
+															reference: date,
+														},
+														parameters: [
+															StringLiteral: {
+																value: dd-mm-yyyy h:m,
+															}
+														],
+													},
+													thirdOprand(ReferenceExpression): {
+														reference: mm,
+													},
+												},
+												FilterMethod(ReferenceExpression): {
+													reference: date,
+												},
+												parameters: [
+													StringLiteral: {
+														value: dd-mm-yyy h:m,
+													}
+												],
+											},
+										}
+									],
+									attributes: [],
+								},
+								CommentNode: {
+									comment: <!--   order 9  -->,
+									type: Normal,
+								},
+								CommentNode: {
+									comment: <!--{{"1"| currency }}-->,
+									type: Normal,
+								},
+								CommentNode: {
+									comment: <!--  order 10   -->,
+									type: Normal,
+								},
+								CommentNode: {
+									comment: <!--      {{ "2" | uppercase : "g"}}-->,
+									type: Normal,
+								},
+							],
+							attributes: [
+								Directive: {
+									type: cp-app,
+									value(ReferenceExpression): {
+										reference: vv,
+									},
+								}
+							],
+						},
+					],
+					attributes: [],
+				},
+			],
+			attributes: [],
+		},
+	},
+}

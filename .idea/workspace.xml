@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8bec6d71-97fc-4763-99a3-7be39715b5ac" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Compiler(15-6)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/visitors/DocumentVisitor.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1s2qKgbtLikVGe5jzIvL7J6lonP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../jar/4_5906809019711884045.jar" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Compiler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Compiler" />
+      <module name="Compiler" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Compiler" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8bec6d71-97fc-4763-99a3-7be39715b5ac" name="Default Changelist" comment="" />
+      <created>1620080981190</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620080981190</updated>
+      <workItem from="1620081017272" duration="1226000" />
+      <workItem from="1620168873164" duration="1160000" />
+      <workItem from="1620250953199" duration="1703000" />
+      <workItem from="1621035552936" duration="479000" />
+      <workItem from="1621192633253" duration="3531000" />
+      <workItem from="1621215451553" duration="674000" />
+      <workItem from="1621288265743" duration="4498000" />
+      <workItem from="1621312098762" duration="2808000" />
+      <workItem from="1621361989715" duration="1009000" />
+      <workItem from="1621365679127" duration="4008000" />
+      <workItem from="1621475522738" duration="3820000" />
+      <workItem from="1621485456514" duration="443000" />
+      <workItem from="1621494239853" duration="5830000" />
+      <workItem from="1621538565376" duration="2555000" />
+      <workItem from="1621547689980" duration="3963000" />
+      <workItem from="1621562371192" duration="1060000" />
+      <workItem from="1621636640742" duration="387000" />
+      <workItem from="1621650711041" duration="400000" />
+      <workItem from="1621733740984" duration="2685000" />
+      <workItem from="1621743936727" duration="2307000" />
+      <workItem from="1621751773141" duration="2083000" />
+      <workItem from="1621758877879" duration="402000" />
+      <workItem from="1621788643580" duration="2582000" />
+      <workItem from="1621823476268" duration="592000" />
+      <workItem from="1622149895960" duration="8406000" />
+      <workItem from="1622324727271" duration="6618000" />
+      <workItem from="1622405277814" duration="3450000" />
+      <workItem from="1622513451611" duration="2298000" />
+      <workItem from="1622665417854" duration="3014000" />
+      <workItem from="1622755081441" duration="5284000" />
+      <workItem from="1622770004966" duration="2263000" />
+      <workItem from="1622793211002" duration="3014000" />
+      <workItem from="1622846007277" duration="1555000" />
+      <workItem from="1622848496388" duration="927000" />
+      <workItem from="1622921214470" duration="3731000" />
+      <workItem from="1622933317453" duration="3424000" />
+      <workItem from="1622944500799" duration="1650000" />
+      <workItem from="1622952705300" duration="21278000" />
+      <workItem from="1622999310895" duration="732000" />
+      <workItem from="1623030827374" duration="5402000" />
+      <workItem from="1623096765152" duration="1837000" />
+      <workItem from="1623107905137" duration="8475000" />
+      <workItem from="1623134428891" duration="276000" />
+      <workItem from="1623177486086" duration="5157000" />
+      <workItem from="1623187383123" duration="168000" />
+      <workItem from="1623188031174" duration="323000" />
+      <workItem from="1623205139664" duration="1456000" />
+      <workItem from="1623208568691" duration="2956000" />
+      <workItem from="1623263136368" duration="2229000" />
+      <workItem from="1623274497801" duration="9358000" />
+      <workItem from="1623351578256" duration="3270000" />
+      <workItem from="1623528232889" duration="12993000" />
+      <workItem from="1623554388967" duration="4671000" />
+      <workItem from="1623610399722" duration="985000" />
+      <workItem from="1623615869086" duration="438000" />
+      <workItem from="1623713156425" duration="1185000" />
+      <workItem from="1623719714159" duration="1279000" />
+      <workItem from="1623723144845" duration="217000" />
+      <workItem from="1623732224993" duration="2295000" />
+      <workItem from="1623737852582" duration="3725000" />
+      <workItem from="1623790718503" duration="2357000" />
+      <workItem from="1623795013047" duration="9015000" />
+      <workItem from="1623807887321" duration="4056000" />
+      <workItem from="1623815326863" duration="7272000" />
+      <workItem from="1623879004959" duration="10000000" />
+      <workItem from="1623893845793" duration="3989000" />
+      <workItem from="1623951621448" duration="850000" />
+      <workItem from="1623954095466" duration="4918000" />
+      <workItem from="1623987908516" duration="921000" />
+      <workItem from="1623992649870" duration="10518000" />
+      <workItem from="1624041542153" duration="3020000" />
+      <workItem from="1624055539006" duration="5008000" />
+      <workItem from="1624065632669" duration="13152000" />
+      <workItem from="1624122251136" duration="11681000" />
+      <workItem from="1624216445675" duration="2510000" />
+      <workItem from="1624240504955" duration="20000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="attributes" />
+        <watch expression="ctx.children.get(0)" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
